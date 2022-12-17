@@ -1,0 +1,9 @@
+/**
+ * @name r1zsa
+ * @author r1zsa#5746
+ * @version 0.1
+ * @description A darker look for Discord.
+ * @source https://github.com/r1zsa/r1zsa_discord_theme
+*/
+
+@import url("https://github.com/r1zsa/r1zsa_discord_theme/blob/main/r1zsa_discord_theme.css");
